@@ -1,6 +1,6 @@
 <template>
 
-    <div class="jumbotron d-flex">
+    <div class="jumbotron">
         <h1>Sono un jumbotron-component!</h1>
     </div>  
     
